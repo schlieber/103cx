@@ -1,7 +1,7 @@
 # Simon Schlieber
 ## Project Site under Construction
 
-[Twitter](https://twitter.com/schlieber)
+[Simon Schlieber on Twitter](https://twitter.com/schlieber)
 
 ## Welcome to GitHub Pages
 
